@@ -10,22 +10,3 @@
 9,Ivy,Lopez,27,Female,ivy.lopez@outlook.com,555-5678,606 Willow St,Dallas,Marketing Coordinator,1996-03-22,60000
 10,Jack,Garcia,33,Male,jack.garcia@gmail.com,555-8765,707 Redwood St,San Jose,Sales Representative,1991-10-05,72000
 11,Blitz,Krieg,26,Male,blitz@proton.me,418-0755,Oblivion,Tamriel,Software Engineer,1917-08-04,000000
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
-new_value1,new_value2,new_value3
